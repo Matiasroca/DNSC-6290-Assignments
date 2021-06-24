@@ -2,14 +2,14 @@
 Contains assignments for the Responsible Machine Learning class. 
 
 
-## Intended Use
+### Intended Use
 
-## Training Data
+### Training Data
 
-## Evaluation Data 
+### Evaluation Data 
 
-## Model Details
+### Model Details
 
-## Quantitative Analysis
+### Quantitative Analysis
 
-## Ethical Considerations
+### Ethical Considerations
