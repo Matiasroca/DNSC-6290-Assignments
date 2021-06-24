@@ -1,4 +1,4 @@
-# DNSC-6290-Assignments
+# Group 6 Final Assessment 
 Contains assignments for the Responsible Machine Learning class. 
 
 
